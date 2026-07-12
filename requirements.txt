@@ -1,0 +1,5 @@
+# TaskForge — optional dependencies
+# These are auto-installed by main.py on first run if missing (internet required).
+# You can also install them manually with:  pip install -r requirements.txt
+tkcalendar>=1.6.1     # real calendar date-picker widget in the task editor
+plyer>=2.1.0          # native desktop notifications for due-soon reminders
