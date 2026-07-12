@@ -77,9 +77,39 @@ todo_app/
 - **GUI:** Tkinter + ttk (standard library — no framework lock-in)
 - **Storage:** SQLite3 (standard library), soft-deletes for safe undo
 - **Notifications:** [`plyer`](https://pypi.org/project/plyer/) when available, graceful popup fallback otherwise
+
+
+<img width="1920" height="966" alt="Python 3 9 12-07-2026 07_28_26" src="https://github.com/user-attachments/assets/d7c4c19b-73bd-49dd-9d87-e658e18bde52" />
+<img width="1920" height="966" alt="Python 3 9 12-07-2026 07_28_22" src="https://github.com/user-attachments/assets/fccf1b4e-e81b-41ed-922b-642891ff853a" />
+<img width="650" height="800" alt="Python 3 9 12-07-2026 07_25_46" src="https://github.com/user-attachments/assets/517aacf2-2514-4adc-b401-75e381f3596a" />
+<img width="1920" height="966" alt="Python 3 9 12-07-2026 07_25_15" src="https://github.com/user-attachments/assets/5c651242-482d-45e5-b863-397fd7dc3edf" />
+
+
 - **Date picker:** [`tkcalendar`](https://pypi.org/project/tkcalendar/) when available, graceful text-entry fallback otherwise
 - Background thread checks for tasks due within 15 minutes every 30 seconds and fires a single reminder per task
 
 ---
 
 Made with ☕ and Tkinter by **@anxntbhardwaj**
+
+MIT License
+
+Copyright (c) 2026 @anxntbhardwaj
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
